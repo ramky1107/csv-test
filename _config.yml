@@ -1,8 +1,8 @@
 prose:
-	metadata:
-    	_data:
-          - name: "title"
-            field:
-              element: "text"
-              label: "Title"
-              value: ""
+  metadata:
+    _data:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
