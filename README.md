@@ -2,8 +2,6 @@
 foo: bar
 published: true
 ---
-
-
 # csv-test
 testing this out it works! test
 asdf
