@@ -1,3 +1,6 @@
+---
+foo: bar
+---
 # csv-test
 testing this out it works! test
 asdf
